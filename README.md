@@ -14,4 +14,4 @@ Já trabalhei como Full Stack, atualmente sou desenvolvedora Front-end :computer
 | 
 [![Gmail Badge](https://img.shields.io/badge/-esterfaniagama@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:esterfaniagama@gmail.com)](mailto:esterfaniagam@gmail.com)
 |
-[![Linkedin Badge](https://img.shields.io/badge/-Links-purple?style=flat-square&logoColor=white&link=https://www.linkedin.com/in/esterfania-gama/)](https://www.linkedin.com/in/esterfania-gama/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Links-purple?style=flat-square&logoColor=white&link=https://esterfania.github.io/links/)](https://esterfania.github.io/links/) 
