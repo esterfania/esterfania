@@ -7,7 +7,7 @@ Já trabalhei como Full Stack, atualmente sou desenvolvedora Front-end :computer
  :rocket:  &nbsp; Estou trabalhando no **PicPay**
  <br/> :green_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular 2+, React
  <br/> :blush: &nbsp; Posso te ajudar com Angular, TypeScript, CSS
- <br/> :computer: &nbsp; Minha stack: TypeScript, ES6+, Angular8+, React Js, Stecil Js, testes unitários with Jest, SASS, C#
+ <br/> :computer: &nbsp; Minha stack: TypeScript, ES6+, Angular8+, React Js, Stecil Js, Jest, SASS, C#
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games indies: Gris, Child of light, Hollow Knight, séries, gosto de cozinhar receitas da internet
  <br/> 😄 Pronome: Ela/Dela
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-Esterfania-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/esterfania-gama/)](https://www.linkedin.com/in/esterfania-gama/) 
