@@ -1,7 +1,7 @@
 # Ester Gama
 
 ## Olá pessoal 👋
-Sou formada em Análise e Desenvolvimento de Sistema pela FAESA e pós graduanda em Ciência de dados, sou curiosa por várias áreas e acredito muito em aprendizado contítnuo. 
+Sou formada em Análise e Desenvolvimento de Sistema pela FAESA e pós graduanda em Ciência de dados, sou curiosa por várias áreas e acredito muito em aprendizado contínuo. 
 Já trabalhei como Full Stack, atualmente sou desenvolvedora Front-end :computer:
 
  :rocket:  &nbsp; Estou trabalhando no **PicPay**
