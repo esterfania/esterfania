@@ -4,7 +4,7 @@
 Sou formada em Análise e Desenvolvimento de Sistema pela FAESA e pós graduanda em Ciência de dados, sou curiosa por várias áreas e acredito muito em aprendizado contínuo. 
 Já trabalhei como Full Stack, atualmente sou desenvolvedora Front-end :computer:
 
- :rocket:  &nbsp; Estou trabalhando no **PicPay**
+ :rocket:  &nbsp; Estou trabalhando no [PicPay](https://github.com/esterfaniasantos)
  <br/> :green_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular 2+, React
  <br/> :blush: &nbsp; Posso te ajudar com Angular, TypeScript, CSS
  <br/> :computer: &nbsp; Minha stack: TypeScript, ES6+, Angular8+, React Js, Stecil Js, Jest, SASS, C#
