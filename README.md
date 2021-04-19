@@ -1,6 +1,6 @@
 # Ester Gama
 
-## Hello guys 👋
+## Hello guys 👋🏽
 I have a degree in System Analysis and Development and a postgraduate degree in Data Science, I am curious in several areas and I believe a lot in continuous learning. I've worked as a Full Stack, currently I'm a Front-end developer 💻
 
  <br/> :green_heart: &nbsp; Looking to collaborate with projects in Front-end using Angular 2+, React
