@@ -1,4 +1,5 @@
-# Ester Gama
+![Purple Sky Profile Header](https://user-images.githubusercontent.com/35200622/117539884-ef77af00-afe2-11eb-927a-6ad97e2b64ec.gif)
+
 
 ## Hello guys 👋🏽
 I have a degree in System Analysis and Development and a postgraduate degree in Data Science, I am curious in several areas and I believe a lot in continuous learning. I've worked as a Full Stack, currently I'm a Front-end developer 💻
