@@ -5,7 +5,7 @@
 I have a degree in System Analysis and Development and a postgraduate degree in Data Science, I am curious in several areas and I believe a lot in continuous learning. I've worked as a Full Stack, currently I'm a Front-end developer 💻 </p>
 
 
- <br/> 💕: &nbsp; Looking to collaborate with projects in Front-end using Angular 2+, React
+ <br/> 💕 &nbsp; Looking to collaborate with projects in Front-end using Angular 2+, React
  <br/> :blush: &nbsp; I can help you with Angular, TypeScript, CSS, SCSS
  <br/> :computer: &nbsp; Stacks: TypeScript, ES6+, Angular8+, React Js, Stencil Js, Jest, SASS, C#
  <br/> 💬  &nbsp; About me: I love technology, games indies: Gris, Child of light, Hollow Knight, Mario Maker, series, I like to cook
