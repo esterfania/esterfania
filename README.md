@@ -1,13 +1,12 @@
-![Purple Sky Profile Header](https://user-images.githubusercontent.com/35200622/117539884-ef77af00-afe2-11eb-927a-6ad97e2b64ec.gif)
 
 <h2 align="center">Hello guys 👋</h2>
 <p style='text-align: justify;'> 
-I have a degree in System Analysis and Development and a postgraduate degree in Data Science, I am curious in several areas and I believe a lot in continuous learning. I've worked as a Full Stack, currently I'm a Front-end developer 💻 </p>
+I'm a Front-end developer 🖌️ with a degree in System Analysis and Development and a postgraduate degree in Data Science, I am curious in several areas and I believe a lot in continuous learning</p>
 
 
- <br/> 💕 &nbsp; Looking to collaborate with projects in Front-end using Angular 2+, React
- <br/> :blush: &nbsp; I can help you with Angular, TypeScript, CSS, SCSS
- <br/> :computer: &nbsp; Stacks: TypeScript, ES6+, Angular8+, React Js, Stencil Js, Jest, SASS, C#
+ <br/> 💕 &nbsp; Looking to collaborate with projects in Front-end React
+ <br/> :blush: &nbsp; I can help you with React, TypeScript, CSS, SCSS
+ <br/> :computer: &nbsp; Stacks: TypeScript, ES6+, React Js, Stencil Js, Angular8+, Jest, SASS, C#
  <br/> 💬  &nbsp; About me: I love technology, games indies: Gris, Child of light, Hollow Knight, Mario Maker, series, I like to cook
  <br/> 😄  &nbsp; She / Her
  
