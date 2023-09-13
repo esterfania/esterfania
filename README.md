@@ -1,11 +1,11 @@
 
 <h2 align="center">Hello guys 👋</h2>
 <p style='text-align: justify;'> 
-I'm a Front-end developer 🖌️ with a degree in System Analysis and Development and a postgraduate degree in Data Science, I am curious in several areas and I believe a lot in continuous learning</p>
+I'm a Front-end developer 🖌️ with a degree in System Analysis and Development and a postgraduate degree in Data Science, I'm curious in several areas and I believe a lot in continuous learning</p>
 
 
  <br/> 💕 &nbsp; Looking to collaborate with projects in Front-end React
- <br/> :blush: &nbsp; I can help you with React, TypeScript, CSS, SCSS
+ <br/> :blush: &nbsp; I can help you with Angular, NextJS, React, TypeScript, CSS, SCSS, Monorepos, NX workspaces
  <br/> :computer: &nbsp; Stacks: TypeScript, ES6+, React Js, Stencil Js, Angular8+, Jest, SASS, C#
  <br/> 💬  &nbsp; About me: I love technology, games indies: Gris, Child of light, Hollow Knight, Mario Maker, series, I like to cook
  <br/> 😄  &nbsp; She / Her
