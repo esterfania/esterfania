@@ -1,7 +1,7 @@
 <h2 align="center">Hey there 👋 I'm Ester!</h2>
 
 <p align="justify">
-I'm a Front-end Developer passionate about developer experience, system architecture and code quality. I hold a degree in Systems Analysis and Development and a postgraduate degree in Data Science. I'm naturally curious and believe in continuous learning as a way to improve not just as a developer, but as a human being.
+I'm a developer passionate about developer experience, system architecture, and code quality. I hold a degree in Systems Analysis and Development, as well as a postgraduate degree in Data Science. I'm naturally curious and believe in continuous learning as a way to improve not just as a developer, but as a human being.
 </p>
 
 ---
